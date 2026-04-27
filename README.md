@@ -16,4 +16,4 @@
 ![Najir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ## 📫 Contact
-- Email: your-email@example.com
+- Email: najiru716@gmail.com
