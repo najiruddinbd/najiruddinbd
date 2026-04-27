@@ -1,4 +1,5 @@
 # Hi there, I'm Najir Uddin 👋
+#### Wordpress Developer & CST Student
 
 ## 🚀 About Me
 - 🔭 I’m currently working on Web Development
