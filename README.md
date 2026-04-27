@@ -1,8 +1,8 @@
-(https://yt3.googleusercontent.com/3itTuP2hYVeuVfUUr93ZHHEvhV0HVORjtdD5SzeeVNBLX2GsKUz0BC3gLLd75sgiDIAzi1Tw4Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![Wordpress Developer & CST Student](https://yt3.googleusercontent.com/3itTuP2hYVeuVfUUr93ZHHEvhV0HVORjtdD5SzeeVNBLX2GsKUz0BC3gLLd75sgiDIAzi1Tw4Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 ### Hi there 👋, I'm Najir Uddin 👋
 #### Wordpress Developer & CST Student
-![Wordpress Developer & CST Student]
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
